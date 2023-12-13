@@ -106,7 +106,7 @@ a:visited {
 
 /* welcome */
 .welcome {
-	background-image: url("../images/main-banner.jpg");
+	background-image: url(./images/vision.jpg);
 	background-size: cover;
 	padding: 2rem;
 }
