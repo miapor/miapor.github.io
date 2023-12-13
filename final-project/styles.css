@@ -106,7 +106,7 @@ a:visited {
 
 /* welcome */
 .welcome {
-	background-image: url("./images/vision.jpg");
+	background-image: url(./images/vision.jpg);
 	background-size: cover;
 	padding: 2rem;
 }
@@ -210,7 +210,7 @@ h3 {
 
 /* visoin  */
 .vision {
-	background-image: url(../images/vision.jpg);
+	background-image: url(./images/vision.jpg);
 	background-size: cover;
 	background-position: 0% 50%;
 	color: #fff;
